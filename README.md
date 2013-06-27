@@ -60,3 +60,7 @@ In the end we did uncover some methods we weren't previously aware of.
 `data` is our unprocessed scrape of the words from the Ubigraph site.
 
 `data_uniqd` is our processed scrape of the words from the site.
+
+# LICENSE
+
+Dear sweet Jesus, I hope you have the good sense to not use any of this anywhere important. BUT, if you really insist, this is all released under the MIT license, which basically says you have to note that I'm author in the source where you add code I wrote.
